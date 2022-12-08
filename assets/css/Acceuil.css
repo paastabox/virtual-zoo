@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title> </title>
-    <link rel="stylesheet" href="css/style.css" type="text/css" />
-  </head>
+#logo{
+    width: 15%;
+    margin: 40px;
+}
 
-  <body>
+body{
+    background-color: #000000 ;
+}
 
-  </body>
-</html>
-
+#logo_oiseaux{
+    
+}
