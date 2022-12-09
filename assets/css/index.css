@@ -41,3 +41,37 @@ button {
     cursor: pointer;
     margin: 5px;
   }
+
+
+/* Responsive */
+@media only screen 
+and (orientation : portrait) {
+
+body {
+    margin: auto;
+    width: 80%;
+    padding-top: 60px;
+}
+
+img {
+    width: 400px;
+}
+
+h1 {
+    font-size: 96px;
+}
+
+p {
+    font-size: 48px; 
+    line-height: 60px;
+    width: auto;
+    margin-bottom: 100px;
+}
+
+button {
+    padding: 40px;
+    width: 800px;
+    font-size: 48px;
+}
+
+}
