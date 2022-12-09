@@ -1,6 +1,7 @@
 body {
+    scale: auto;
     margin: 0;
-    padding-top: 100px;
+    padding-top: 80px;
     text-align: center;
     background-color: black;
     color: white;
