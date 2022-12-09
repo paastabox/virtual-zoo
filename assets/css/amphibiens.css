@@ -1,6 +1,26 @@
+.logo {
+    width: 10%;
+}
 nav {
     text-align: center;
     width: 100%;
     background-color: #eee;
     line-height: 400%;
+}
+
+nav ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+nav ul li {
+    display: inline-block;
 }
