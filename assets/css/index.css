@@ -50,6 +50,7 @@ and (orientation : portrait) {
 body {
     margin: auto;
     width: 80%;
+    padding-top: 60px;
 }
 
 img {
