@@ -13,7 +13,7 @@ body{
 
 .section1{
     
-    margin-top: 30px;  
+    margin-top: 1px;  
     margin-left: auto;
     margin-right: auto;
     justify-content: space-around;
@@ -22,7 +22,7 @@ body{
 
 .section2{
 
-    margin-top: 60px;  
+    margin-top: 10px;  
     margin-left: 310px;
     margin-right: 250px;
     justify-content: space-around;
@@ -32,13 +32,13 @@ body{
 
 
 #logo_mammifere{
-    width: 222px;
+    width: 310px;
     
 
 }
 
 #logo_reptiles{
-    width: 222px;   
+    width: 300px;   
 }
 
 #logo_amphibiens{
