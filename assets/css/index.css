@@ -1,14 +1,14 @@
 body {
     scale: auto;
     margin: 0;
-    padding-top: 80px;
     text-align: center;
+    padding-top: 80px;
     background-color: black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
+.logo {
     width: 250px;
 }
 
@@ -48,11 +48,16 @@ footer {
     background-color: #333333;
     bottom:0;
     width:100%;
-    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
 }
 
-.legal {
-    text-align: left;
+
+
+footer > p {
+    width: 800px;
+    margin: auto;
 }
 /* fin du footer */
 
