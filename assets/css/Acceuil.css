@@ -1,10 +1,10 @@
 #logo{
-    width: 15%;
-    margin: 40px;
+    width: 10%;
+    margin: 20px;
 }
 
 body{
-    background-color: #000000 ;
+    background-color: #4B7272 ;
 }
 
 #logo_marins{
@@ -13,12 +13,23 @@ body{
 
 .section1{
     
-    margin-top: 120px;  
+    margin-top: 50px;  
     margin-left: auto;
     margin-right: auto;
     justify-content: space-around;
     display: flex;
 }
+
+.section2{
+
+    margin-top: 120px;  
+    margin-left: 310px;
+    margin-right: 250px;
+    justify-content: space-around;
+    display: flex;
+
+}
+
 
 #logo_mammifere{
     width: 222px;
@@ -27,7 +38,15 @@ body{
 }
 
 #logo_reptiles{
+    width: 222px;   
+}
+
+#logo_amphibiens{
     width: 222px;
     
-    
+
+}
+
+#logo_oiseaux{
+    width: 222px;   
 }
