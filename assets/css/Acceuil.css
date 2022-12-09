@@ -8,13 +8,26 @@ body{
 }
 
 #logo_marins{
-    width: 25%;
-    
-    
-    
+    width: 300px;
 }
 
-div{
-    margin: auto;
-    width: 800px;
+.section1{
+    
+    margin-top: 120px;  
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    display: flex;
+}
+
+#logo_mammifere{
+    width: 222px;
+    
+
+}
+
+#logo_reptiles{
+    width: 222px;
+    
+    
 }
