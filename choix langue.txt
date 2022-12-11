@@ -2,7 +2,8 @@
 
 <!-- Choix langue page fr -->
 <div class="en-version">
-	<a href="index-en.html"><img src="assets/img/en.png" alt="en"></a>
+    <!-- insérer le lien de la page dans href -->
+	<a href="-en.html"><img src="assets/img/en.png" alt="en"></a>
 </div>
 <!-- ------------ -->
 
@@ -13,7 +14,8 @@
 
 <!-- Choix langue page en -->
 <div class="en-version">
-    <a href="index.html"><img src="assets/img/fr.png" alt="en"></a>
+    <!-- insérer le lien de la page dans href -->
+    <a href=""><img src="assets/img/fr.png" alt="en"></a>
 </div>
 <!-- ------------ -->
 
