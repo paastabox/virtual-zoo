@@ -41,6 +41,6 @@
 /* ------------ Choix langue responsive ------------ */
 .en-version img {
     width: 100px;
-    margin: 25px 0px;
+    margin: 25px 25px;
 }
 /* ------------ ------------ */
