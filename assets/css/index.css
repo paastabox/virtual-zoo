@@ -1,11 +1,4 @@
-body {
-    margin: 0;
-    background-color: black;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-/* ------------ Choix langue ------------ */
+/* ------------ Choix langue gauche ------------ */
 .en-version {
     float: left;
     position: absolute;
@@ -16,6 +9,13 @@ body {
     margin: 50px 50px;
 }
 /* ------------ ------------ */
+
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 .site {
     scale: auto;
@@ -63,6 +63,13 @@ button {
 /* Responsive */
 @media only screen 
 and (orientation : portrait) {
+
+/* ------------ Choix langue responsive ------------ */
+.en-version img {
+    width: 100px;
+    margin: 25px 0px;
+}
+/* ------------ ------------ */
 
 body {
     margin: auto;

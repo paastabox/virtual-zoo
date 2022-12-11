@@ -1,4 +1,4 @@
-/* ------------ Choix langue ------------ */
+/* ------------ Choix langue droite ------------ */
 .en-version {
     float: right;
     position: relative;
@@ -60,4 +60,18 @@ body{
 
 #logo_oiseaux{
     width: 280px;   
+}
+
+
+/********************* Responsive ********************/
+@media only screen 
+and (orientation : portrait) {
+
+/* ------------ Choix langue responsive ------------ */
+.en-version img {
+    width: 100px;
+    margin: 25px 0px;
+}
+/* ------------ ------------ */
+
 }

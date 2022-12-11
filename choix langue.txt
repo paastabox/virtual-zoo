@@ -23,7 +23,7 @@
 
 ******************** CSS (commun francais-anglais) ********************
 
-/* ------------ Choix langue ------------ */
+/* ------------ Choix langue gauche ------------ */
 .en-version {
     float: left;
     position: absolute;
@@ -32,5 +32,15 @@
 .en-version img {
     width: 50px;
     margin: 50px 50px;
+}
+/* ------------ ------------ */
+
+
+
+
+/* ------------ Choix langue responsive ------------ */
+.en-version img {
+    width: 100px;
+    margin: 25px 0px;
 }
 /* ------------ ------------ */
