@@ -1,15 +1,32 @@
 body {
-    scale: auto;
     margin: 0;
-    text-align: center;
-    padding-top: 80px;
     background-color: black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* ------------ Choix langue ------------ */
+.en-version {
+    float: left;
+    position: absolute;
+}
+
+.en-version img {
+    width: 50px;
+    margin: 50px 50px;
+}
+/* ------------ ------------ */
+
+.site {
+    scale: auto;
+    margin: auto;
+    text-align: center;
+    padding-top: 80px;
+}
+
 .logo {
     width: 250px;
+    
 }
 
 h1 {
@@ -42,24 +59,6 @@ button {
     cursor: pointer;
     margin: 5px;
   }
-
-  /* footer à copier */
-footer {
-    background-color: #333333;
-    bottom:0;
-    width:100%;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin: auto;
-}
-
-
-
-footer > p {
-    width: 800px;
-    margin: auto;
-}
-/* fin du footer */
 
 /* Responsive */
 @media only screen 

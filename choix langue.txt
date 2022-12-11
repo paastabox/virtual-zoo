@@ -1,0 +1,34 @@
+******************** html FRANCAIS ********************
+
+<!-- Choix langue page fr -->
+<div class="en-version">
+	<a href="index-en.html"><img src="assets/img/en.png" alt="en"></a>
+</div>
+<!-- ------------ -->
+
+
+
+
+******************** html ANGLAIS ********************
+
+<!-- Choix langue page en -->
+<div class="en-version">
+    <a href="index.html"><img src="assets/img/fr.png" alt="en"></a>
+</div>
+<!-- ------------ -->
+
+
+
+******************** CSS (commun francais-anglais) ********************
+
+/* ------------ Choix langue ------------ */
+.en-version {
+    float: left;
+    position: absolute;
+}
+
+.en-version img {
+    width: 50px;
+    margin: 50px 50px;
+}
+/* ------------ ------------ */
