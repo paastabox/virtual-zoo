@@ -6,7 +6,7 @@
         <ul class="list-inline">
             <li class="list-inline-item"><a href="legal.html">Mentions légales</a></li>
         </ul>
-        <p class="copyright">Célian Lesage, Brice Vigreux, matthieu Dupont, Maximilien Carton, Hippolyte Le Pallec © 2022</p>
+        <p class="copyright">Célian Lesage, Brice Vigreux, Matthieu Dupont, Maximilien Carton, Hippolyte Le Pallec © 2022</p>
     </footer>
 </div>
 
