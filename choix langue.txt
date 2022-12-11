@@ -38,6 +38,20 @@
 
 
 
+/* ------------ Choix langue droite ------------ */
+.en-version {
+    float: right;
+    position: relative;
+}
+
+.en-version img {
+    width: 50px;
+    margin: 50px 50px;
+}
+/* ------------ ------------ */
+
+
+
 /* ------------ Choix langue responsive ------------ */
 .en-version img {
     width: 100px;

@@ -1,0 +1,42 @@
+/* ------------ Choix langue droite ------------ */
+.en-version {
+    float: right;
+    position: relative;
+}
+
+.en-version img {
+    width: 50px;
+    margin: 65px 50px;
+}
+/* ------------ ------------ */
+
+body {
+    margin: auto;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+header {
+    background-color: #222222;
+    width: 100%;
+    margin: 0;
+}
+
+.legal {
+    margin: auto;
+    width: 1000px;
+}
+
+.logo {
+    position: relative;
+    width: 150px;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+.logo-container {
+    text-align: left;
+    margin-bottom: 40px;
+}
