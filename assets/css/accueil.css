@@ -67,6 +67,14 @@ body{
     width: 280px;   
 }
 
+.resp {
+    display: none;
+}
+
+.desk {
+    display: block;
+}
+
 
 /********************* Responsive ********************/
 @media only screen 
@@ -79,4 +87,14 @@ and (orientation : portrait) {
 }
 /* ------------ ------------ */
 
+.resp {
+    display: block;
+}
+
+.desk {
+    display: none;
+}
+
+#logo {
+    width: 300px;
 }
