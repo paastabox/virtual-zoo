@@ -1,3 +1,49 @@
+    
+.text-img{
+    clear: both ;
+    text-align: center;
+}
+
+
+.section1{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.section2{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section3{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section4{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section5{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+    
+    
+    
+    
+    
     /* ------------ Footer ------------ */
     footer {
         color: white;
@@ -9,10 +55,12 @@
         padding-bottom: 20px;
         margin: auto;
         margin-top: 200px;
+        
     }
 
     .footer-basic {
         margin-top: 50px;
+        
     }
 
     .footer-basic ul {
@@ -182,47 +230,3 @@
 
 
     /* ------------ Fin du header ------------ */
-
-.section1{
-    margin-top: 100px;  
-    margin-left: 20px;
-    margin-right: auto;
-    justify-content: space-around;
-    display: flex;
-}
-
-.section2{
-    margin-top: 75px;  
-    margin-left: 20px;
-    margin-right: auto;
-    justify-content: space-around;
-    display: flex;
-}
-
-.section3{
-    margin-top: 75px;  
-    margin-left: 20px;
-    margin-right: auto;
-    justify-content: space-around;
-    display: flex;
-}
-
-.section4{
-    margin-top: 75px;  
-    margin-left: 20px;
-    margin-right: auto;
-    justify-content: space-around;
-    display: flex;
-}
-
-.section5{
-    margin-top: 75px;  
-    margin-left: 20px;
-    margin-right: auto;
-    justify-content: space-around;
-    display: flex;
-}
-
-.text-img{
-    margin-left: 90px;
-}
