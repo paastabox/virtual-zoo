@@ -96,5 +96,39 @@ and (orientation : portrait) {
 }
 
 #logo {
-    width: 300px;
+    width: 200px;
+}
+
+.resp p {
+    text-align: center;
+    margin: auto;
+    width: 600px;
+}
+
+.resp img {
+    margin: 50px 0;
+    
+}
+
+#logo_poissons{
+    width: 400px;
+}
+
+#logo_mammifere{
+    width: 410px;
+    
+
+}
+
+#logo_reptiles{
+    width: 400px;   
+}
+
+#logo_amphibiens{
+    width: 380px;
+}
+
+#logo_oiseaux{
+    width: 380px;   
+}
 }
