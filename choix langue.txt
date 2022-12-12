@@ -1,0 +1,60 @@
+******************** html FRANCAIS ********************
+
+<!-- Choix langue page fr -->
+<div class="en-version">
+    <!-- insérer le lien de la page dans href -->
+	<a href="-en.html"><img src="assets/img/en.png" alt="en"></a>
+</div>
+<!-- ------------ -->
+
+
+
+
+******************** html ANGLAIS ********************
+
+<!-- Choix langue page en -->
+<div class="en-version">
+    <!-- insérer le lien de la page dans href -->
+    <a href=""><img src="assets/img/fr.png" alt="en"></a>
+</div>
+<!-- ------------ -->
+
+
+
+******************** CSS (commun francais-anglais) ********************
+
+/* ------------ Choix langue gauche ------------ */
+.en-version {
+    float: left;
+    position: absolute;
+}
+
+.en-version img {
+    width: 50px;
+    margin: 50px 50px;
+}
+/* ------------ ------------ */
+
+
+
+
+/* ------------ Choix langue droite ------------ */
+.en-version {
+    float: right;
+    position: relative;
+}
+
+.en-version img {
+    width: 50px;
+    margin: 50px 50px;
+}
+/* ------------ ------------ */
+
+
+
+/* ------------ Choix langue responsive ------------ */
+.en-version img {
+    width: 100px;
+    margin: 25px 25px;
+}
+/* ------------ ------------ */

@@ -1,15 +1,24 @@
+/* ------------ Choix langue droite ------------ */
+.en-version {
+    float: right;
+    position: relative;
+}
+
+.en-version img {
+    width: 50px;
+    margin: 50px 50px;
+}
+/* ------------ ------------ */
+
 #logo{
-    width: 10%;
+    width: 8%;
     margin: 20px;
 }
 
 body{
     background-color: #000000 ;
     scale: auto;
-}
-
-#logo_marins{
-    width: 300px;
+    margin: 0;
 }
 
 .section1{
@@ -31,6 +40,9 @@ body{
 
 }
 
+#logo_poissons{
+    width: 300px;
+}
 
 #logo_mammifere{
     width: 310px;
@@ -43,11 +55,23 @@ body{
 }
 
 #logo_amphibiens{
-    width: 222px;
-    
-
+    width: 280px;
 }
 
 #logo_oiseaux{
-    width: 222px;   
+    width: 280px;   
+}
+
+
+/********************* Responsive ********************/
+@media only screen 
+and (orientation : portrait) {
+
+/* ------------ Choix langue responsive ------------ */
+.en-version img {
+    width: 100px;
+    margin: 25px 25px;
+}
+/* ------------ ------------ */
+
 }
