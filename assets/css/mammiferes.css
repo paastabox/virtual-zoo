@@ -191,7 +191,14 @@
     margin-right: auto;
     justify-content: space-around;
     display: flex;
+    
 }
+
+.text-img{
+    clear: both ;
+    text-align: center;
+}
+
 
 .section2{
     margin-top: 75px;  
@@ -228,3 +235,4 @@
 .text-img{
     margin-left: 90px;
 }
+
