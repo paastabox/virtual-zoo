@@ -15,8 +15,13 @@
     margin: 20px;
 }
 
+html {
+    min-height: 100%;
+}
+
 body{
-    background-color: #000000 ;
+    background-color: #345;
+	background-image: linear-gradient(to bottom, #0009, transparent);
     scale: auto;
     margin: 0;
 }

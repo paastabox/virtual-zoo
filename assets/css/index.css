@@ -10,9 +10,14 @@
 }
 /* ------------ ------------ */
 
+html {
+    min-height: 100%;
+}
+
 body {
+    background-color: #345;
+	background-image: linear-gradient(to bottom, #0009, transparent);
     margin: 0;
-    background-color: black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
