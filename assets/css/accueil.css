@@ -10,6 +10,14 @@
 }
 /* ------------ ------------ */
 
+.baniere {
+    scale: auto;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 1000px;
+}
+
 #logo{
     width: 8%;
     margin: 20px;
@@ -73,6 +81,7 @@ body{
 
 .desk {
     display: block;
+    margin-top: 50px;
 }
 
 
@@ -92,6 +101,10 @@ and (orientation : portrait) {
 }
 
 .desk {
+    display: none;
+}
+
+.baniere {
     display: none;
 }
 
