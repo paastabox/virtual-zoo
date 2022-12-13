@@ -10,12 +10,26 @@
 }
 /* ------------ ------------ */
 
-.baniere {
+/* .baniere {
     scale: auto;
     position: absolute;
     margin-left: 200px;
     margin-top: 20px;
     width: 1000px;
+} */
+
+.ban_contain {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    scale: auto;
+    position: absolute;
+}
+
+.baniere {
+    position: relative;
+    width: 800px;
+    margin-top: 20px;
 }
 
 #logo{
