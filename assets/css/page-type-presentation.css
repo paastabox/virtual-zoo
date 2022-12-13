@@ -157,3 +157,10 @@ body {
 }
 
 /* ------------ Fin du header ------------ */
+
+
+p {
+    font-size: x-large;
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
