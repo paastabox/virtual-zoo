@@ -353,7 +353,7 @@ footer {
     padding:0;
     list-style:none;
     text-align:center;
-    font-size:18px;
+    font-size:48px;
     line-height:1.6;
     margin-bottom:0;
 }
@@ -375,7 +375,7 @@ footer {
 .footer-basic .copyright {
     margin-top:15px;
     text-align:center;
-    font-size:13px;
+    font-size:36px;
     color:#aaa;
     margin-bottom:0;
 }
