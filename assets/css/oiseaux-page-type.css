@@ -18,6 +18,8 @@ h1 {
     font-size: x-large;
     margin-top: 100px;
     margin-bottom: 20px;
+    margin-left: 20px;
+    width: 1000px;
 }
 .presentation {
     scale: 150%;
@@ -28,7 +30,10 @@ h1 {
     margin-top: 75px;
 }
 
-
+.capucin {
+    margin-top: 10px;
+    width: 400px;
+}
 
 
 
