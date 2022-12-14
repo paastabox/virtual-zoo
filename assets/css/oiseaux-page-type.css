@@ -17,7 +17,7 @@ h1 {
 .animal {
     font-size: x-large;
     margin: 150px auto auto auto;
-    width: 1400px;
+    max-width: 1400px;
     text-align: justify;
 }
 .presentation {
@@ -36,7 +36,7 @@ h1 {
 
 .audio-cont {
     width: 1400px;
-    margin: 100px auto;
+    margin: 50px auto 100px auto;
 }
 
 
