@@ -35,7 +35,7 @@ h1 {
 }
 
 .audio-cont {
-    width: 1400px;
+    max-width: 1400px;
     margin: 50px auto 100px auto;
 }
 
@@ -204,9 +204,10 @@ and (orientation : portrait) {
 
 body {
     box-sizing: border-box;
-    margin: 0;
+    margin: auto;
     min-width: fit-content;
-    padding: 0 100px;
+    max-width: 1400;
+    padding: 0 50px;
 }
 
 h1 {
@@ -217,18 +218,18 @@ h1 {
 
 .img-top {
     margin-top: 50px;
-    width: 700px;
+    max-width: 500px;
 }
 
 .animal {
     margin: 200px auto auto auto;
     max-width: 1400px;
     text-align: justify;
-    font-size: 64px;
+    font-size: 48px;
 }
 
 audio {
-    scale: 400%;
+    scale: 200%;
 }
 
 .audio-cont {
@@ -252,11 +253,11 @@ header {
 }
 
 .links {
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .links > a {
-    padding: 80px 0;
+    padding: 50px 0;
 }
 
 nav .logo_container {
@@ -292,7 +293,7 @@ footer {
     padding:0;
     list-style:none;
     text-align:center;
-    font-size:52px;
+    font-size:42px;
     line-height:1.6;
     margin-bottom:50px;
 }
@@ -314,7 +315,7 @@ footer {
 .footer-basic .copyright {
     margin-top:15px;
     text-align:center;
-    font-size:48px;
+    font-size:36px;
     color:#aaa;
     margin-bottom:0;
 }
