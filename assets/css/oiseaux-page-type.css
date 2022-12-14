@@ -7,6 +7,33 @@ body {
     clear: both ;
     text-align: center;
 }
+
+h1 {
+    text-align: center;
+    margin-top: 120px;
+    font-size: 32px;
+}
+
+.animal {
+    font-size: x-large;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.presentation {
+    scale: 150%;
+}
+
+.img_container {
+    text-align: center;
+    margin-top: 75px;
+}
+
+
+
+
+
+
+
  /* ------------ Footer ------------ */
  footer {
     color: white;
@@ -159,13 +186,3 @@ body {
 /* ------------ Fin du header ------------ */
 
 
-p {
-    font-size: x-large;
-    margin-bottom: 20px;
-}
-.presentation {
-    width: 35%;
-    margin-top: 130px;
-    margin-bottom: 20px;
-    margin-left: 450px;
-}
