@@ -16,11 +16,8 @@ h1 {
 
 .animal {
     font-size: x-large;
-    margin-top: 100px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    width: auto;
+    margin: 150px auto auto auto;
+    width: 1400px;
     text-align: justify;
 }
 .presentation {
@@ -35,6 +32,11 @@ h1 {
 .img-top {
     margin-top: 10px;
     width: 400px;
+}
+
+.audio-cont {
+    width: 1400px;
+    margin: 100px auto;
 }
 
 
