@@ -1,0 +1,20 @@
+ORGANISATION
+-recherche d'information : collaboration grâce à google docs
+
+-développement : maquettage grâce à figma et codage du site. collaboration grâce à github
+
+WIREFRAME
+
+-accueil des visiteurs
+-présentation des animaux
+
+MAQUETTE : 
+- accueil des clients comme une entrée de zoo
+- choix des animaux
+	DESCRIPTION D'UN ANIMAL : 
+	- possibilité d'entendre le cri de l'animal
+
+
+REGLEMENTATION :
+
+- indication que le site n'utilise pas les cookies et ne collecte pas de données personnelles
