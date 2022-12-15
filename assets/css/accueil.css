@@ -29,12 +29,12 @@
 .baniere {
     position: relative;
     width: 800px;
-    margin-top: 20px;
+    margin-top: 0;
 }
 
 #logo{
     width: 8%;
-    margin: 20px;
+    margin: 0 20px;
 }
 
 html {
