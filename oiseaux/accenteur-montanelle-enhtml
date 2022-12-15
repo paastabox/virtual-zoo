@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Virtual Zoo</title>
+    <link rel="stylesheet" href="../assets/css/oiseaux-page-type.css" type="text/css" />
+    <link rel="icon" type="image/png" href="../assets/img/logo.png" />
+</head>
+
+<body>
+    <header id="header">
+        <nav class="links" style="--items: 6;">
+            <a class="logo_container" href="../accueil.html"><img id="logo_menu" src="../assets/img/logo.png" alt=""></a>
+            <a href="../mammiferes/mammiferes-en.html">Mammifères</a>
+            <a href="../amphibiens/amphibiens-en.html">Amphibiens</a>
+            <a href="./oiseaux-en.html">Oiseaux</a>
+            <a href="../poissons/poissons-en.html">Poissons</a>
+            <a href="../reptiles/reptiles-en.html">Reptiles</a>
+            <span class="line"></span>
+        </nav>
+
+        <!-- Choix langue page en -->
+        <div class="en-version">
+            <!-- insérer le lien de la page dans href -->
+            <a href="accenteur-montanelle.html"><img src="assets/img/fr.png" alt="en"></a>
+        </div>
+        <!-- ------------ -->
+    </header>
+
+    <h1>Accenteur Montanelle</h1>
+
+    <p class="img_container">
+        <img class="presentation img-top" src="../assets/img/oiseaux/accenteur-montanelle1.jpg"
+            alt="Accenteur Montanelle">
+    </p>
+
+
+
+    <p class="animal">
+        In males of the nominate race, the crown is grey-brown with a black border, contrasting with the long
+         supercilium yellow-cream. The ear-coverts are blackish with some buff on the upper part.
+         posterior. Neck sides are grey. The mantle, back and wings are brown, the mantle with some
+         bright chestnut streaks. Rump and tail are grey-brown. The whitish ends of
+         middle and greater coverts form 2 narrow wingbars which are only really visible at very low
+         distance. <br>
+        <br>
+        Size : 14 cm <br>
+        <br>
+        Order : Passeriformes <br>
+        Family : Prunellidae <br>
+        Genus : Prunela <br>
+        Species : montanella <br>
+        <br>
+        Montanelle accentors sing from the top of a bush or tree, they emit notes
+         melodious and quite powerful, reminiscent of those of shambling accentors. There are two types of singing:
+         the first is really close to that of the Accenteur Mouchet and the other is more buzzy. The cry of
+         contact is a trisyllabic "dididi".
+    </p>
+
+    <p class="audio-cont">
+        <audio controls src="../assets/sound/oiseaux/accenteur-montanelle.mp3"><a
+            href="../assets/sound/oiseaux/accenteur-montanelle.mp3"></a></audio>
+    </p>
+    
+
+
+
+
+    <!-- footer -->
+    <div class="footer-basic">
+        <footer>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="../legal.html">Legal notice</a></li>
+            </ul>
+            <p class="copyright">Célian Lesage, Brice Vigreux, Matthieu Dupont, Maximilien Carton, Hippolyte Le Pallec ©
+                2022</p>
+        </footer>
+    </div>
+</body>
+
+</html>
